@@ -1,4 +1,4 @@
-# A Beautiful Soup web scraper to scrape every product page at softwareadvice.com.
+# A Beautiful Soup web scraper to scrape all product pages at softwareadvice.com.
 
 ![alice](images/alice_in_software_land.png)
 
@@ -9,14 +9,14 @@
 * Python
 * Beautiful Soup
 * Pandas
-* MongoDB
 * Jupyter Notebook
+* MongoDB
 
 <br>
 
 ## Overview
 
-### This project was completed for a small IT business and my task was to scrape all product pages at softwareadvice.com.  The script I wrote uses Beautiful Soup to gather the data listed below from each product page at softwareadvice.com.  The data is saved to a Pandas DataFrame, a csv file, and can also be saved in a MongoDB database.
+### This project was completed for a small IT business and my task was to scrape all product pages at softwareadvice.com.  The script I wrote uses Beautiful Soup to gather the data listed below from each product page. The script was written so the data would be saved in a csv file which can then be put into a MongoDB database.
 
 * Product name
 * Product overview
