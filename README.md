@@ -35,7 +35,7 @@
 
 <br>
 
-#### Categories page
+#### Categories/Subcategories page
 ![categories page](images/categories_page.png)
 
 
