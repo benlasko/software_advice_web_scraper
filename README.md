@@ -31,7 +31,7 @@
 
 ## Data
 
-###  Softwareadvice.com has descriptions, reviews, and other data about software in over 40 categories including Accounting, Business Intelligence, Human Resources, Learning Management Systems, Medical, and Supply Chain Management.  Within each category is a number of subcategories and in each subcategory a number of software products.  There's over 900 subcategories total and up to hundreds of products in each subcategory.
+###  Softwareadvice.com has descriptions, reviews, and other data about software in over 40 categories like Accounting, Business Intelligence, Human Resources, Learning Management Systems, Medical, and Supply Chain Management.  In each category is a number of subcategories and in each subcategory is a number of software products.  There's over 900 subcategory links total and up to hundreds of product page links for each subcategory.
 
 <br>
 
