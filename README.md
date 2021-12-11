@@ -1,4 +1,4 @@
-# A Beautiful Soup web scraper to scrape product pages at softwareadvice.com.
+# A Beautiful Soup web scraper to scrape every product page at softwareadvice.com.
 
 ![alice](images/alice_in_software_land.png)
 
