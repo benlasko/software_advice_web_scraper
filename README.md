@@ -16,7 +16,7 @@
 
 ## Overview
 
-### The script uses Beautiful Soup to gather the data listed below from each product page at softwareadvice.com.  The data is saved to a Pandas DataFrame, a csv file, and can also be saved in a MongoDB database.
+### This project was completed for a small IT business.  The script uses Beautiful Soup to gather the data listed below from each product page at softwareadvice.com.  The data is saved to a Pandas DataFrame, a csv file, and can also be saved in a MongoDB database.
 
 * Product name
 * Product overview
